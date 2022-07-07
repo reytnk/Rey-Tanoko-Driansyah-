@@ -19,4 +19,5 @@ Contact : reytanokod@gmail.com
 ![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
 <a href="https://github.com/reytnk/SQUADTNK-"><img title="SQUADTNK-" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=SQUADTNK-&theme=vision-friendly-dark"></a>
 
-![template_s](https://github.com/reytnk/reytnk/blob/master/img/wallpaperbetter_(1).jpg)
+![template_s](https://github.com/reytnk/reytnk/https://i.stack.imgur.com/47Imq.jpg
+____(1).jpg)
