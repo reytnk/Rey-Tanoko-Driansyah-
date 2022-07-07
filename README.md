@@ -31,12 +31,6 @@ Contact : reytanokod@gmail.com
    ❤️Follow My Github And Subscribe❤️
 </h4 aling="center">
  
-![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
-<a href="https://github.com/reytnk/T4MPILAN-V5"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=T4MPILAN-V5&theme=vision-friendly-dark"></a>
-<a href="https://github.com/reyntk/enc"><img title="Encrypt python2" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=enc&theme=vision-friendly-dark"></a>
-<a href="https://github.com/reytnk/DefaceWebDav"><img title="Deface website" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=DefaceWebDav&theme=vision-friendly-dark"></a>
-<p align="center">
-
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/reytnk)<br />
 * [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/tanoko.iansyah)<br />
