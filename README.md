@@ -1,4 +1,4 @@
-# Rey-Tanoko-Driansyah-
+### Rey-Tanoko-Driansyah-
 
 
 [reytnk](https://github.com/reytnk)
@@ -6,19 +6,16 @@
 
   https://i.stack.imgur.com/47Imq.jpg
 ___
-_Smoking And Coffiee_
+_Tetaplah semangat, jangan biarkan ocehan mereka menggagalkan usaha dan impianmu_
 ___
 
 
-Wanna Hire Me ? 
 
 Contact : reytanokod@gmail.com
 
 #### Donate
 
-* Donate me on  <a href="Dana : 085273769118">HERE!</a>
-, or i will jump like nishimiya >:(
-
+"Dana : 085273769118"
 ![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
 <a href="https://github.com/reytnk/SQUADTNK-"><img title="SQUADTNK-" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=SQUADTNK-&theme=vision-friendly-dark"></a>
 
