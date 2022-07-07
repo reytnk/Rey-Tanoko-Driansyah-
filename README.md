@@ -13,9 +13,6 @@ ___
 
 Contact : reytanokod@gmail.com
 
-#### Donate
-
-* ("Dana : 085273769118")
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
