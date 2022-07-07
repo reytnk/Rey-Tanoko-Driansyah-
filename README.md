@@ -1,5 +1,3 @@
-### Rey-Tanoko-Driansyah-
-
 <h4 align="center">
     ⚜️ WELCOME TO MY GITHUB ⚜️
 </h4>
@@ -7,10 +5,6 @@
 <h4 align="center">
 <a href="#"><img title="Author by Reytnk" src="https://img.shields.io/badge/AUTHOR%20BY-LOL~%20reytnk-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
 <h4 align="center">
-
-<h4 align="center">
-   ❤️Follow My Github And Subscribe❤️
-</h4 aling="center">
 
 
 [reytnk](https://github.com/reytnk)
@@ -30,6 +24,9 @@ Contact : reytanokod@gmail.com
 ![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
 <a href="https://github.com/reytnk/SQUADTNK-"><img title="SQUADTNK-" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=SQUADTNK-&theme=vision-friendly-dark"></a>
 
+<h4 align="center">
+   ❤️Follow My Github And Subscribe❤️
+</h4 aling="center">
  
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/reytnk)<br />
