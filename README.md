@@ -1,12 +1,10 @@
 # Rey-Tanoko-Driansyah-
-<img src="https://github.com/reytnk/reytnk/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
-<center>
 
 
-[https://github.com/reytnk][1]
+[reytnk](https://github.com/reytnk)
 
 
-  [1]: https://i.stack.imgur.com/47Imq.jpg`enter code here`
+  https://i.stack.imgur.com/47Imq.jpg
 ___
 _Smoking And Coffiee_
 ___
