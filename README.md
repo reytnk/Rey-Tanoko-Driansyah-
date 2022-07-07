@@ -25,7 +25,7 @@ Contact : reytanokod@gmail.com
 <a href="https://github.com/reytnk/SQUADTNK-"><img title="SQUADTNK-" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=SQUADTNK-&theme=vision-friendly-dark"></a>
 
 <h4 align="center">
-   ❤️Follow My Github And Subscribe❤️
+   ❤️Follow My Sosial Media ❤️
 </h4 aling="center">
  
 ### MY SOCIAL MEDIA
