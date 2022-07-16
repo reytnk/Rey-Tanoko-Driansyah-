@@ -24,6 +24,10 @@ Contact : reytanokod@gmail.com
 ![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
 <a href="https://github.com/reytnk/tampilan-termux"><img title="tampilan-termux" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=tampilan-termux&theme=vision-friendly-dark"></a>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=reytnk&show_icons=true&theme=dark)
+<a href="https://github.com/reytnk/Dump-Fb"><img title="Dump-Fb" src="https://github-readme-stats.vercel.app/api/pin/?username=reytnk&repo=Dump-Fb&theme=vision-friendly-dark"></a>
+
+
 <h4 align="center">
    ❤️Follow My Social Media ❤️
 </h4 aling="center">
