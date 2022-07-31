@@ -1,5 +1,5 @@
 <h4 align="center">
-    ⚜️ WELCOME TO MY GITHUB ⚜️
+# ⚜️ WELCOME TO MY GITHUB ⚜️
 </h4>
 
 <h4 align="center">
@@ -10,7 +10,7 @@
 [reytnk](https://github.com/reytnk)
 
 
-  https://i.stack.imgur.com/47Imq.jpg
+ 
 ___
 _Tetaplah semangat, jangan biarkan ocehan mereka menggagalkan usaha dan impianmu_
 ___
